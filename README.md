@@ -1,2 +1,2 @@
-# iron-hex
-a simple collection of hex tiles, icons, and tokens for hex maps and crawls
+# iron-tiles
+a simple collection of tiles, icons, and tokens for vtt resources.
