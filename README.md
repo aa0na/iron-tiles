@@ -18,7 +18,7 @@ a simple collection of tiles, icons, and tokens for vtt resources.
 ### Install
 - download zip file
 - unzip and drag into owlbear rodeo
-- files have sizes for flop hex
+- files have sizes for flat top hex
 
 ### Configuration
 - flat top hexes
