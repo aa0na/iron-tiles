@@ -24,7 +24,7 @@ a simple collection of tiles, icons, and tokens for vtt resources.
 - flat top hexes
 - no other default changes
 - allows combo tile placement (overlapping)
-- does not algin with grids
+- does not algin with other grids
 
 ## Tiles
 
