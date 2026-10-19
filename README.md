@@ -27,7 +27,7 @@ a simple collection of tiles, icons, and tokens for vtt resources.
 - does not algin with other grids
 
 ## Tiles
-- [Hex](https://github.com/aa0na/iron-tiles/blob/main/hex)
+- [Hex](https://github.com/aa0na/iron-tiles/blob/main/hex.md)
 - Wilderness (not done)
 - Town (not done)
 - Dungeon (not done)
