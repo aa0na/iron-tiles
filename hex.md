@@ -44,3 +44,10 @@ Example shows water and one combo water
 Example showing all tokens
 
 ![Items](https://github.com/aa0na/iron-tiles/blob/main/hex/docs/tokens.png?raw=true)
+
+### Examples
+- Foundry
+- ![Items](https://github.com/aa0na/iron-tiles/blob/main/hex/docs/iron-hex-foundry-test.png?raw=true)
+
+- Owlbear.rodeo
+- ![Items](https://github.com/aa0na/iron-tiles/blob/main/hex/docs/iron-hex-owlbear_rodeo-test.png?raw=true)
